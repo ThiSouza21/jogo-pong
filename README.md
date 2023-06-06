@@ -4,4 +4,4 @@
 
 ## Objetivo
 
-Era ser um joguinho teste rapido e funcional, serviu de aprendizado, pena que à bugs.
+Era ser um joguinho teste, rapido e funcional, serviu de aprendizado (pena que à bugs).
